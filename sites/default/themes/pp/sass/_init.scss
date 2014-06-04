@@ -85,7 +85,7 @@ $arial:           Arial, Helvetica, "Nimbus Sans L", sans-serif;
 $courier:         "Courier New", "DejaVu Sans Mono", monospace, sans-serif;
 
 // Now create some variables for the font stacks we want to use on this site.
-$base-font-family: $verdana; // The font family set on the html element.
+$base-font-family: $font-path; // The font family set on the html element.
 $font-body:        $verdana;
 $font-monospace:   $courier;
 
@@ -105,6 +105,15 @@ $tabs-container-bg: #fff;
 $tabs-border: #bbb;
 
 
+
+$small-mobile-width: 320px;
+$medium-mobile-width: 480px;
+$large-mobile-width: 595px;
+$tablet-width: 768px;
+$desktop-width: 1024px;
+$monitor-width: 1920px;
+
+
 // =============================================================================
 // Partials to be shared with all .scss files.
 // =============================================================================
@@ -122,5 +131,10 @@ $tabs-border: #bbb;
 // Add the Zen Grids responsive layout mixins.
 @import "zen";
 
+// Add breakpoint to the mix
+@import "breakpoint";
+
 // Now we add our custom helper mixins.
 @import "mixins";
+
+

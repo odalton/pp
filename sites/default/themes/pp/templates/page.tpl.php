@@ -71,6 +71,10 @@
       <?php print $feed_icons; ?>
     </div>
 
+    <div id="below-content">
+      <?php print render($page['below_content']); ?>
+    </div>
+
     <div id="navigation">
 
       <?php if ($main_menu): ?>

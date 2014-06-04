@@ -7,6 +7,7 @@
  */
 
 /* Import Sass mixins, variables, Compass modules, etc. */
+@import "fonts";
 @import "init";
 
 /* HTML element (SMACSS base) rules */
@@ -16,9 +17,12 @@
 @import "layouts/responsive";
 
 /* Component (SMACSS module) rules */
+@import "components/page";
 @import "components/misc";
 // Optionally, add your own components here.
 @import "print";
+
+
 
 /* SMACSS theme rules */
 /* @import "theme-A"; */

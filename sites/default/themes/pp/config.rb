@@ -22,11 +22,13 @@ sass_dir        = "sass"
 extensions_dir  = "sass-extensions"
 images_dir      = "images"
 javascripts_dir = "js"
+fonts_dir       = "fonts"
 
 
 # Require any additional compass plugins installed on your system.
 #require 'ninesixty'
 #require 'zen-grids'
+require 'breakpoint'
 
 # Assuming this theme is in sites/*/themes/THEMENAME, you can add the partials
 # included with a module by uncommenting and modifying one of the lines below:

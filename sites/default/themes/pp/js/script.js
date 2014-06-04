@@ -14,10 +14,12 @@
 
 
 // To understand behaviors, see https://drupal.org/node/756722#behaviors
-Drupal.behaviors.my_custom_behavior = {
+Drupal.behaviors.backstretch_behavior = {
   attach: function(context, settings) {
 
     // Place your code here.
+    $('#header').backstretch("http://dl.dropbox.com/u/515046/www/garfield-interior.jpg");
+
 
   }
 };

@@ -1,0 +1,59 @@
+body {
+  background-color: blue;
+  font-family: robotorthin;
+}
+
+#header {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  padding: 140px 0px;
+  margin: 0px;
+  color: #ffffff;
+  .backstretch {
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  #name-and-slogan {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 350px;
+    h1 {
+      a {
+        color: #ffffff;
+        text-decoration: none;
+      }
+    }
+  }
+
+}
+
+
+@include breakpoint($small-mobile-width) {
+  body {
+    background-color: red;
+  }
+
+  #header {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    padding:290px 0px;
+    margin: 0px;
+    .backstretch {
+      height: 600px;
+      margin: 0px;
+      padding: 0px;
+    }
+  }
+
+}
+
+//$small-mobile-width: 320px;
+//$medium-mobile-width: 480px;
+//$large-mobile-width: 595px;
+//$tablet-width: 768px;
+//$desktop-width: 1024px;
+//$monitor-width: 1920px;
