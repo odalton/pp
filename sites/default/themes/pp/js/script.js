@@ -18,7 +18,7 @@ Drupal.behaviors.backstretch_behavior = {
   attach: function(context, settings) {
 
     // Place your code here.
-    $('#header').backstretch("http://dl.dropbox.com/u/515046/www/garfield-interior.jpg");
+    $('#header').backstretch("sites/default/themes/pp/images/header.jpg");
 
 
   }

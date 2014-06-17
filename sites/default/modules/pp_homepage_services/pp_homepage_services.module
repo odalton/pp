@@ -1,0 +1,48 @@
+<?php
+
+/**
+ * Implements hook_block_info().
+ */
+function pp_homepage_services_block_info() {
+
+  $blocks['services'] = array(
+    'info' => t('Services Block for homepage'),
+    'region' => 'content',
+    'status' => TRUE,
+    'cache' => DRUPAL_NO_CACHE
+  );
+
+  return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+function pp_homepage_services_block_view($delta = '') {
+  // This example is adapted from node.module.
+  $block = array();
+
+  switch ($delta) {
+    case 'services':
+      $block['subject'] = t('services Block');
+//      $block['content'] = "testing";
+      $block['content'] = array(
+        '#theme' => 'homepage_services',
+        '#url' => 'rss.xml',
+        '#title' => t('Syndicate'),
+      );
+      break;
+  }
+  return $block;
+}
+
+function pp_homepage_services_theme($existing, $type, $theme, $path) {
+  return array(
+    'homepage_services' => array(
+      'template' => 'templates/pp_homepage_services',
+      'variables' => array(
+        'var_name'=> NULL
+      )
+    ),
+  );
+}

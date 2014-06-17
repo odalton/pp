@@ -1,0 +1,4 @@
+name = PP Home page blurb
+description = "Adds a Blurb to the homepage"
+package = PP
+core = 7.x

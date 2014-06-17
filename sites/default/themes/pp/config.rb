@@ -10,6 +10,7 @@
 # Change this to :production when ready to deploy the CSS to the live server.
 environment = :development
 #environment = :production
+disable_warnings = true
 
 # In development, we can turn on the FireSass-compatible debug_info.
 firesass = false
@@ -28,7 +29,11 @@ fonts_dir       = "fonts"
 # Require any additional compass plugins installed on your system.
 #require 'ninesixty'
 #require 'zen-grids'
+require 'bourbon'
 require 'breakpoint'
+#require 'neat'
+#require 'bitters'
+require 'font-awesome-sass'
 
 # Assuming this theme is in sites/*/themes/THEMENAME, you can add the partials
 # included with a module by uncommenting and modifying one of the lines below:

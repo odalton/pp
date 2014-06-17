@@ -1,0 +1,4 @@
+name = PP Home page services
+description = "Adds a Block that displays services"
+package = PP
+core = 7.x

@@ -8,10 +8,13 @@
 
 /* Import Sass mixins, variables, Compass modules, etc. */
 @import "fonts";
+
+@import "normalize"; // this is removed due to sass errors
+
 @import "init";
 
 /* HTML element (SMACSS base) rules */
-@import "normalize";
+
 
 /* Layout rules */
 @import "layouts/responsive";

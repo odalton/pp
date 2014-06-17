@@ -2,15 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82b811e-449c-4d99-ae84-553f3d9bcc70" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/favicon.ico" afterPath="$PROJECT_DIR$/sites/default/themes/pp/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pp.iml" afterPath="$PROJECT_DIR$/.idea/pp.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/3a31a8aef8b106c6579efc710b4af8738ce8d4d9/_clearfix.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/3a31a8aef8b106c6579efc710b4af8738ce8d4d9/_hacks.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/4313af8e33327463edb23bb06d1fd9918294d89b/_css3.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/4313af8e33327463edb23bb06d1fd9918294d89b/_support.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/47c87b9dd4e2c601ef56317a2e0de53293c531e1/_sprites.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/53779d7cabe39deae98564d187886fd191179ab2/_replacement.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_animation.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_appearance.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_background-clip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_background-origin.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_background-size.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_border-radius.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_box-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_box-sizing.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_columns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_filter.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_flexbox.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_font-face.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_hyphenation.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_images.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_inline-block.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_opacity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_regions.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_text-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_transform.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_transition.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/996d5f6e50f7b23a09ca7efbde0a88c6510446fa/_user-interface.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/c955609ce66392090c9bbcec429d7982a0449eba/_base.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/c955609ce66392090c9bbcec429d7982a0449eba/_sprite-img.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/f28abc3f8bb716b5658cc92c7ba27966b7c47a7e/_units.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/f28abc3f8bb716b5658cc92c7ba27966b7c47a7e/_vertical_rhythm.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/fc7492659ebc7f3654cfc87aa755c0b67494bd2f/_grid-background.scssc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/242b2ebc7c7659a99d3411e6a25f1f709d251466/_breakpoint.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/242b2ebc7c7659a99d3411e6a25f1f709d251466/_breakpoint.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_context.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_context.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a186b9f2ce642bfa3916eb3899e4fd86f2759b99/_default-pair.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a186b9f2ce642bfa3916eb3899e4fd86f2759b99/_default-pair.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a186b9f2ce642bfa3916eb3899e4fd86f2759b99/_default.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a186b9f2ce642bfa3916eb3899e4fd86f2759b99/_default.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a71f77e6fbc2bb8c04ddee0e15d79bc7c68620bd/_default.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a71f77e6fbc2bb8c04ddee0e15d79bc7c68620bd/_default.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/c439132c60614cae7b83f023f1227c88aca14f8f/_default.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/c439132c60614cae7b83f023f1227c88aca14f8f/_default.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a186b9f2ce642bfa3916eb3899e4fd86f2759b99/_double-string.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/a186b9f2ce642bfa3916eb3899e4fd86f2759b99/_double-string.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_double.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_double.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_fonts.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_fonts.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/ca36f9cce5e1233fe9e8f219441e9b4fab0b3c0b/_grids.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/ca36f9cce5e1233fe9e8f219441e9b4fab0b3c0b/_grids.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_helpers.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_helpers.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_init.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_init.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/69173017efe3a2c61bc1270e4821e47ccdc6e9a6/_misc-rtl.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/69173017efe3a2c61bc1270e4821e47ccdc6e9a6/_misc-rtl.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/69173017efe3a2c61bc1270e4821e47ccdc6e9a6/_misc.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/69173017efe3a2c61bc1270e4821e47ccdc6e9a6/_misc.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_mixins.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_mixins.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_no-query.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_no-query.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_normalize-rtl.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_normalize-rtl.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_normalize.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_normalize.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/69173017efe3a2c61bc1270e4821e47ccdc6e9a6/_page.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/69173017efe3a2c61bc1270e4821e47ccdc6e9a6/_page.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_parsers.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_parsers.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_print.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/_print.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_query.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_query.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/58bfc9b4771e9f9c4a17ca63443be3705ef2deef/_resolution.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/58bfc9b4771e9f9c4a17ca63443be3705ef2deef/_resolution.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_resolution.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_resolution.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_respond-to.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/500e529aac6a3c8b5aaae3a786c897667b034063/_respond-to.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/daa4a6390b30cd537c67d724e89966898ae03acf/_responsive-rtl.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/daa4a6390b30cd537c67d724e89966898ae03acf/_responsive-rtl.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/daa4a6390b30cd537c67d724e89966898ae03acf/_responsive.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/daa4a6390b30cd537c67d724e89966898ae03acf/_responsive.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_single.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_single.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_triple.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/9a84745f744292e01ea2508f61e0f26ca0ff0355/_triple.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/d5da228a2e620573d80c8824ed1d3d08a089a13f/_zen.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/d5da228a2e620573d80c8824ed1d3d08a089a13f/_zen.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/styles-rtl.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/styles-rtl.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/styles.scssc" afterPath="$PROJECT_DIR$/sites/default/themes/pp/.sass-cache/237317a7901e8e62072ebd1bffbe4cfe1f9bf2e3/styles.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/sass/_fonts.scss" afterPath="$PROJECT_DIR$/sites/default/themes/pp/sass/_fonts.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss" afterPath="$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_misc.scss" afterPath="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_misc.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/sass/layouts/_responsive.scss" afterPath="$PROJECT_DIR$/sites/default/themes/pp/sass/layouts/_responsive.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/sass/_normalize.scss" afterPath="$PROJECT_DIR$/sites/default/themes/pp/sass/_normalize.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_page.scss" afterPath="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_page.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/config.rb" afterPath="$PROJECT_DIR$/sites/default/themes/pp/config.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/default/themes/pp/templates/page.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/pp.info" afterPath="$PROJECT_DIR$/sites/default/themes/pp/pp.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.info" afterPath="$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.module" afterPath="$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.module" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/js/script.js" afterPath="$PROJECT_DIR$/sites/default/themes/pp/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/themes/pp/sass/styles.scss" afterPath="$PROJECT_DIR$/sites/default/themes/pp/sass/styles.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -36,46 +99,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/templates/page.tpl.php">
+      <file leaf-file-name="pp_homepage_services.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/default/modules/pp_homepage_services/templates/pp_homepage_services.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="38" selection-start="2522" selection-end="2522" vertical-scroll-proportion="-8.204082" vertical-offset="618" max-vertical-offset="1860">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="14" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pp.info" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/pp.info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="24" selection-start="2758" selection-end="2758" vertical-scroll-proportion="0.0" vertical-offset="772" max-vertical-offset="2310">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_init.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="29" selection-start="3971" selection-end="3971" vertical-scroll-proportion="-7.6530614" vertical-offset="930" max-vertical-offset="2190">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_fonts.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/_fonts.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="55" selection-end="66" vertical-scroll-proportion="-1.2244898" vertical-offset="0" max-vertical-offset="600">
+            <state line="7" column="18" selection-start="231" selection-end="231" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -84,25 +111,43 @@
       <file leaf-file-name="_page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/components/_page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="3" selection-start="727" selection-end="727" vertical-scroll-proportion="-9.22449" vertical-offset="283" max-vertical-offset="960">
+            <state line="69" column="22" selection-start="1173" selection-end="1173" vertical-scroll-proportion="-5.472973" vertical-offset="630" max-vertical-offset="1620">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pp_homepage_blurb.info" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.info">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
+            <state line="8" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pp_homepage_blurb.module" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.module">
+      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
+            <state line="35" column="26" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/templates/html.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="44" selection-start="1039" selection-end="1039" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_init.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="28" selection-start="2337" selection-end="2337" vertical-scroll-proportion="0.50516987" vertical-offset="783" max-vertical-offset="1515">
               <folding />
             </state>
           </provider>
@@ -126,27 +171,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/templates/page.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/js/script.js" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/pp.info" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/layouts/_responsive.scss" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_misc.scss" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/fonts/stylesheet.css" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/config.rb" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_fonts.scss" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/styles.scss" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/css/styles.css" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/_fonts.scss" />
-        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_page.scss" />
         <option value="$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.module" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/templates/pp_homepage_blurb.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/default/modules/pp_homepage_services/pp_homepage_services.info" />
+        <option value="$PROJECT_DIR$/sites/default/modules/pp_homepage_services/pp_homepage_services.module" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/styles.scss" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/_normalize.scss" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/js/script.js" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/_fonts.scss" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/neat/settings/_visual-grid.scss" />
+        <option value="$PROJECT_DIR$/sites/default/modules/pp_homepage_services/templates/pp_homepage_services.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/components/_page.scss" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/templates/html.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/config.rb" />
+        <option value="$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="22" />
-    <option name="width" value="1440" />
+    <option name="width" value="1439" />
     <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -244,11 +292,167 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pp_homepage_blurb" />
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,7 +464,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Background" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sass-245/css/variables.scss" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -269,7 +473,9 @@
       <recent name="$PROJECT_DIR$/sites/default/themes/pp/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sites/default/themes/pp/images" />
       <recent name="$PROJECT_DIR$/sites/default/themes/pp/sass" />
+      <recent name="$PROJECT_DIR$/sites/default/themes/pp" />
       <recent name="$PROJECT_DIR$/sites/default/themes/pp/fonts" />
     </key>
   </component>
@@ -316,18 +522,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <frame x="1" y="22" width="1439" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60079575" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25915292" sideWeight="0.5729443" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25915292" sideWeight="0.42705572" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -356,107 +562,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/js/README.txt">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/bourbon/_bourbon.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="728">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/templates/page.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/base/_lists.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="38" selection-start="2522" selection-end="2522" vertical-scroll-proportion="-8.204082" vertical-offset="618" max-vertical-offset="1860">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/js/script.js">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/base/_grid-settings.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="14" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/pp.info">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/base/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="24" selection-start="2758" selection-end="2758" vertical-scroll-proportion="0.0" vertical-offset="772" max-vertical-offset="2310">
+        <state line="32" column="37" selection-start="908" selection-end="908" vertical-scroll-proportion="0.39006025" vertical-offset="221" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/components/_misc.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="1" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.4059406" vertical-offset="1246" max-vertical-offset="12195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="16" selection-start="1415" selection-end="1419" vertical-scroll-proportion="1.0057062" vertical-offset="0" max-vertical-offset="960">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="606" selection-end="606" vertical-scroll-proportion="0.5504587" vertical-offset="0" max-vertical-offset="654">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/styles-rtl.scss">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/neat/settings/_grid.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/layouts/_responsive.scss">
+    <entry file="file://$USER_HOME$/Downloads/sass-245/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="17" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.5398773" vertical-offset="188" max-vertical-offset="3240">
+        <state line="19" column="18" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.42792794" vertical-offset="0" max-vertical-offset="666">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/neat/_neat.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="2" selection-start="856" selection-end="856" vertical-scroll-proportion="0.3997195" vertical-offset="0" max-vertical-offset="27660">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/neat/settings/_visual-grid.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="29" selection-start="3971" selection-end="3971" vertical-scroll-proportion="-7.6530614" vertical-offset="930" max-vertical-offset="2190">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/_fonts.scss">
+    <entry file="file://$USER_HOME$/Downloads/sass-245/css/application.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="55" selection-end="66" vertical-scroll-proportion="-1.2244898" vertical-offset="0" max-vertical-offset="600">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.816839" vertical-offset="553" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/sass-245/css/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/modules/pp_homepage_services/templates/pp_homepage_services.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="231" selection-end="231" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/components/_page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="3" selection-start="727" selection-end="727" vertical-scroll-proportion="-9.22449" vertical-offset="283" max-vertical-offset="960">
+        <state line="69" column="22" selection-start="1173" selection-end="1173" vertical-scroll-proportion="-5.472973" vertical-offset="630" max-vertical-offset="1620">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.module">
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/templates/html.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
+        <state line="24" column="44" selection-start="1039" selection-end="1039" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/modules/pp_homepage_blurb/pp_homepage_blurb.info">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
+        <state line="8" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="26" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/pp/sass/_init.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="28" selection-start="2337" selection-end="2337" vertical-scroll-proportion="0.50516987" vertical-offset="783" max-vertical-offset="1515">
           <folding />
         </state>
       </provider>
