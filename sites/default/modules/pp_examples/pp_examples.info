@@ -1,0 +1,4 @@
+name = PP Examples
+description = "Adds a grid layout to the page with some examples of previous work."
+package = PP
+core = 7.x

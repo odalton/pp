@@ -71,6 +71,16 @@
       <?php //print $feed_icons; ?>
     </div>
 
+    <div id="contact-content">
+      <div class="contact-form">
+        <?php print render($page['contact_content']); ?>
+      </div>
+      <div class="contact-address">
+        <?php print render($page['address_content']); ?>
+      </div>
+    </div>
+
+
     <div id="below-content">
       <?php print render($page['below_content']); ?>
     </div>

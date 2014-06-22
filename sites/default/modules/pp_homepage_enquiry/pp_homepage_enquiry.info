@@ -1,0 +1,4 @@
+name = PP Home page Enquiry
+description = "Adds a Enquiry Form to homepage"
+package = PP
+core = 7.x

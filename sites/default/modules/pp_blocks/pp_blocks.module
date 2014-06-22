@@ -1,0 +1,21 @@
+<?php
+
+/**
+ * Implements hook_form_BASE_FORM_ID_alter().
+ *
+ */
+function pp_blocks_form_webform_client_form_4_alter(&$form, &$form_state, $form_id) {
+
+  if(isset($form_id) && $form_id == "webform_client_form_4") {
+    // Update form action of submit.
+    $form['#action'] = "/pp/";
+
+    // Add for placeholders to the form inputs.
+    $form['submitted']['name']['#attributes']['placeholder']            = "Name.";
+    $form['submitted']['email']['#attributes']['placeholder']           = "Email.";
+    $form['submitted']['phone']['#attributes']['placeholder']           = "Phone.";
+    $form['submitted']['company']['#attributes']['placeholder']         = "Company.";
+    $form['submitted']['how_can_we_help']['#attributes']['placeholder'] = "How can we help?";
+
+  }
+}

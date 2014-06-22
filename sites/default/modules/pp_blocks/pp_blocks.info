@@ -1,0 +1,4 @@
+name = PP Blocks Module
+description = "Updates blocks within the website"
+package = PP
+core = 7.x

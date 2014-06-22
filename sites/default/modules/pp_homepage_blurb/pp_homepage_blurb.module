@@ -24,8 +24,7 @@ function pp_homepage_blurb_block_view($delta = '') {
 
   switch ($delta) {
     case 'blurb':
-        $block['subject'] = t('Blurb Block');
-//      $block['content'] = "testing";
+      $block['subject'] = t('Blurb Block');
       $block['content'] = array(
         '#theme' => 'homepage_blurb',
         '#url' => 'rss.xml',

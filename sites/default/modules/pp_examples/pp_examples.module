@@ -1,0 +1,48 @@
+<?php
+
+/**
+ * Implements hook_block_info().
+ */
+function pp_examples_block_info() {
+
+  $blocks['examples'] = array(
+    'info' => t('Examples Block for homepage'),
+    'region' => 'content',
+    'status' => TRUE,
+    'cache' => DRUPAL_NO_CACHE
+  );
+
+  return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+function pp_examples_block_view($delta = '') {
+  // This example is adapted from node.module.
+  $block = array();
+
+  switch ($delta) {
+    case 'examples':
+      $block['subject'] = t('Examples Block');
+//      $block['content'] = "testing";
+      $block['content'] = array(
+        '#theme' => 'homepage_examples',
+        '#url' => 'rss.xml',
+        '#title' => t('Syndicate'),
+      );
+      break;
+  }
+  return $block;
+}
+
+function pp_examples_theme($existing, $type, $theme, $path) {
+  return array(
+    'homepage_examples' => array(
+      'template' => 'templates/pp_examples',
+      'variables' => array(
+        'var_name'=> NULL
+      )
+    ),
+  );
+}

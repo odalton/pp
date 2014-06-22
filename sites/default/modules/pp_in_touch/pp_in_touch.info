@@ -1,0 +1,4 @@
+name = PP Get in touch.
+description = "Adds a get in touch Block Homepage"
+package = PP
+core = 7.x

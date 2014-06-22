@@ -1,0 +1,4 @@
+name = PP GMaps Module
+description = "Adds Google Map to the homepage inside a Block"
+package = PP
+core = 7.x

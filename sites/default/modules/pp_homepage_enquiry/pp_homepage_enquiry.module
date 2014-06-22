@@ -1,0 +1,48 @@
+<?php
+
+/**
+ * Implements hook_block_info().
+ */
+function pp_homepage_enquiry_block_info() {
+
+  $blocks['enquiry'] = array(
+    'info' => t('Enquiry Address Block for homepage'),
+    'region' => 'address_content',
+    'status' => TRUE,
+    'cache' => DRUPAL_NO_CACHE
+  );
+
+  return $blocks;
+}
+
+
+/**
+ * Implements hook_block_view().
+ */
+function pp_homepage_enquiry_block_view($delta = '') {
+  // This example is adapted from node.module.
+  $block = array();
+
+  switch ($delta) {
+    case 'enquiry':
+      $block['subject'] = t('Contact Info');
+      $block['content'] = array(
+        '#theme' => 'homepage_enquiry',
+        '#url' => 'rss.xml',
+        '#title' => t('Enquiry'),
+      );
+      break;
+  }
+  return $block;
+}
+
+function pp_homepage_enquiry_theme($existing, $type, $theme, $path) {
+  return array(
+    'homepage_enquiry' => array(
+      'template' => 'templates/pp_homepage_enquiry',
+      'variables' => array(
+        'var_name'=> NULL
+      )
+    ),
+  );
+}
