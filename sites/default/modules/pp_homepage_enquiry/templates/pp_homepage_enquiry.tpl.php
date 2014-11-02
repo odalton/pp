@@ -6,7 +6,7 @@
   </li>
   <li>
     <strong>Email</strong>
-    <span itemprop="email"><a href="mailto:hello@programmingperth.com.au">hello@perthwebcompany.com.au</a></span>
+    <span itemprop="email"><a href="mailto:hello@perthwebcompany.com.au">hello@perthwebcompany.com.au</a></span>
   </li>
 </ol>
 

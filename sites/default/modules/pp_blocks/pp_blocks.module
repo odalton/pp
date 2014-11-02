@@ -8,7 +8,7 @@ function pp_blocks_form_webform_client_form_4_alter(&$form, &$form_state, $form_
 
   if(isset($form_id) && $form_id == "webform_client_form_4") {
     // Update form action of submit.
-    $form['#action'] = "/pp/";
+    $form['#action'] = "/";
 
     // Add for placeholders to the form inputs.
     $form['submitted']['name']['#attributes']['placeholder']            = "Name.";
